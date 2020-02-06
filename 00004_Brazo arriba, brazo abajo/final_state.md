@@ -12,4 +12,4 @@ cell 0 1 Negro 2
 cell 5 1 Negro 3 
 cell 0 0 Rojo 2 Verde 1 
 cell 5 0 Azul 3 
-head 3 1 </gs-board>
+head 5 1 </gs-board>
