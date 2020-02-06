@@ -10,6 +10,6 @@ head 3 1
 size 6 2
 cell 0 1 Negro 2 
 cell 5 1 Negro 3 
-cell 0 0 Rojo 3 Verde 5 
-cell 5 0 Azul 1 
+cell 0 0 Rojo 2 Verde 1
+cell 5 0 Azul 1
 head 5 1 </gs-board>
