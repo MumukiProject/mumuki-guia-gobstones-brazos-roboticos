@@ -4,4 +4,4 @@
 
 Una vez que el brazo tiene al contenedor, ya puede moverse con él para ponerlo en otro lado. ¿Dónde? :thinking: En el tren que distribuirá el maíz. :steam_locomotive:
 
-> Construí el programa para `extender el brazo`, `agarrar el contenedor`, `transportarlo` hasta el borde Este y `soltarlo`.
+> Construí el programa para `extender el brazo`, `agarrar el contenedor`, transportarlo hasta el borde Este y `soltarlo`.
