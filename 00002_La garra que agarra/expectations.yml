@@ -8,4 +8,4 @@ expectations:
   inspection: UsesRepeat
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Intransitive:program
-  inspection: Not:Uses:MoverBrazoAl
+  inspection: Not:Uses:MoverBrazoAl_
